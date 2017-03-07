@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Colemak layout for Mac OS X. -->
 <!-- 2006-01-01 Shai Coleman, http://colemak.com/ . Public domain. -->
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-03-07 at 14:53 (GMT+3)-->
+<!--Last edited by Ukelele version 3.2.1.161 on 2017-03-07 at 14:58 (GMT+3)-->
 <keyboard group="126" id="-8526" name="F-Keyboard" maxout="2">
 	<layouts>
 		<layout first="0" last="0" mapSet="312" modifiers="48"/>
@@ -425,14 +425,14 @@
 			<key code="20" output="#"/>
 			<key code="21" output="4"/>
 			<key code="22" output="6"/>
-			<key code="23" output="5"/>
-			<key code="24" output="×"/>
+			<key code="23" output="~"/>
+			<key code="24" output="/"/>
 			<key code="25" output="]"/>
 			<key code="26" output="{"/>
 			<key code="27" output="\"/>
 			<key code="28" output="["/>
 			<key code="29" output="}"/>
-			<key code="30" output="»"/>
+			<key code="30" output="~"/>
 			<key code="31" action="a114"/>
 			<key code="32" output="u"/>
 			<key code="33" output="«"/>
