@@ -2,8 +2,8 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Colemak layout for Mac OS X. -->
 <!-- 2006-01-01 Shai Coleman, http://colemak.com/ . Public domain. -->
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-07-29 at 02:54 (GMT+3)-->
-<keyboard group="126" id="-3665" name="F-Keyboard" maxout="2">
+<!--Last edited by Ukelele version 3.2.5.180 on 2017-07-29 at 15:42 (GMT+3)-->
+<keyboard group="126" id="-20758" name="F-Keyboard" maxout="2">
 	<layouts>
 		<layout first="0" last="0" mapSet="312" modifiers="48"/>
 	</layouts>
@@ -1291,7 +1291,7 @@
 			<when state="s9" output="Ḕ"/>
 		</action>
 		<action id="a15">
-			<when state="none" output="x"/>
+			<when state="none" output="&#x003E;"/>
 			<when state="s1" output="≈"/>
 		</action>
 		<action id="a150">
