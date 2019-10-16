@@ -8,4 +8,4 @@ use dmg file for installing
 
 # contribution
 
-pen up keylayout file with ukelele
+Open up keylayout file with ukelele app and start editing
